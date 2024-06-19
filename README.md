@@ -1,3 +1,7 @@
+本コードは山浦清透さんのgithubを参照して勉強用に利用しています。
+山浦清透さんのYoutube講座
+https://youtu.be/7_hNvwSYEmo?si=5qnlZX9OEwObHNmN
+
 # OOP Pokemon
 
 ポケモンのポーカーゲームをオブジェクト指向を使って実装する演習問題です(Python)。
